@@ -6,5 +6,20 @@ namespace Tutorial2_4
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            lblShow.Text = "芬蘭";
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            lblShow.Text = "法國";
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            lblShow.Text = "德國";
+        }
     }
 }
