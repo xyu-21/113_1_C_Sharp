@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A111221046-HW2-1/1.0.0": {
+        "runtime": {
+          "A111221046-HW2-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A111221046-HW2-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

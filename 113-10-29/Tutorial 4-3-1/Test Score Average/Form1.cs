@@ -31,7 +31,7 @@ namespace Test_Score_Average
 
                 if ((test1 >= 0 && test1 <= 100) && (test2 >= 0 && test2 <= 100) && (test3 >= 0 && test3 <= 100))
                 { 
-                average = (test1 + test2 + test3) / 3.0;
+                    average = (test1 + test2 + test3) / 3.0;
                     averageLabel.Text = average.ToString("n1");
 
                     if (average >= 90)
