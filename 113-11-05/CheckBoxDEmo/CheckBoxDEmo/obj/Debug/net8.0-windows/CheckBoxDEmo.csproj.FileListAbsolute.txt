@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\bin\Debug\net8.0-windows\CheckBoxDEmo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\bin\Debug\net8.0-windows\CheckBoxDEmo.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\bin\Debug\net8.0-windows\CheckBoxDEmo.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\bin\Debug\net8.0-windows\CheckBoxDEmo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\bin\Debug\net8.0-windows\CheckBoxDEmo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\refint\CheckBoxDEmo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\CheckBoxDEmo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBoxDEmo\CheckBoxDEmo\obj\Debug\net8.0-windows\ref\CheckBoxDEmo.dll
